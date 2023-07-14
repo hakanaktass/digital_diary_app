@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17439460786",
+    "project_id": "digitaldiaryproject-b8177",
+    "storage_bucket": "digitaldiaryproject-b8177.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17439460786:android:9439bee5295fa4f74ee8ab",
+        "android_client_info": {
+          "package_name": "com.hakanaktas.digitaldiaryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17439460786-l29m7hu63jpkh33j0ei5v2nr4jlb9d70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFwDyPGJOftgu5z4i7lgDTkiaPy3FwGz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17439460786-l29m7hu63jpkh33j0ei5v2nr4jlb9d70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
